@@ -1,5 +1,4 @@
 Airline ID,Airline,Alias,IATA,ICAO,Callsign,Country,Active
--1,Unknown,\N,-,,\N,\N,Y
 1,Private flight,\N,-,,,,Y
 2,135 Airways,\N,,GNL,GENERAL,United States,N
 3,1Time Airline,\N,1T,RNX,NEXTIME,South Africa,Y
