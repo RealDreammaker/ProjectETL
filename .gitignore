@@ -127,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# other folder
+/Scripts/.ipynb_checkpoints
+/Scripts/Backup
