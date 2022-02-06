@@ -21,12 +21,12 @@ CREATE TABLE "Operations" (
     "Month_Year" varchar(6)   NOT NULL,
     "Airline_id" int   NOT NULL,
     "Port_Country" varchar(100)   NOT NULL,
-    "Passengers_In" int   NOT NULL,
-    "Freight_In_tonnes" numeric(7,3)   NOT NULL,
-    "Mail_In_tonnes" numeric(6,3)   NOT NULL,
-    "Passengers_Out" int   NOT NULL,
-    "Freight_Out_tonnes" numeric(7,3)   NOT NULL,
-    "Mail_Out_tonnes" numeric(7,3)   NOT NULL,
+    "Passengers_In" int   NULL,
+    "Freight_In_tonnes" numeric(7,3)   NULL,
+    "Mail_In_tonnes" numeric(6,3)   NULL,
+    "Passengers_Out" int   NULL,
+    "Freight_Out_tonnes" numeric(7,3)   NULL,
+    "Mail_Out_tonnes" numeric(7,3)   NULL,
     CONSTRAINT "pk_Operations" PRIMARY KEY (
         "id"
      )
