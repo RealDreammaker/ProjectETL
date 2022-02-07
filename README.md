@@ -10,8 +10,8 @@ The team consisted of four members with various backgrounds and experienced that
 
 ### Data source
 <ul>
-<li><a href="https://data.gov.au/data/dataset/international-airlines-airline-by-country-of-port-data/resource/809c77d8-fd68-4a2c-806f-c63d64e69842?view_id=c2e9db61-be01-4673-b83e-d8b7f5b9dd8e">Airlines, Operated Flights and Seats to and from Australia</a></li><br>
-<li><a href="https://www.kaggle.com/open-flights/airline-database?select=airlines.csv">Airline database</a></li>
+<li><a href="https://data.gov.au/data/dataset/international-airlines-airline-by-country-of-port-data/resource/809c77d8-fd68-4a2c-806f-c63d64e69842?view_id=c2e9db61-be01-4673-b83e-d8b7f5b9dd8e">Airlines, Operated Flights and Seats to and from Australia Government Database</a></li><br>
+<li><a href="https://www.kaggle.com/open-flights/airline-database?select=airlines.csv">Kaggle Airline Database</a></li>
 </ul><br>
 
 ### Transformation
