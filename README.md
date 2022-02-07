@@ -14,7 +14,7 @@ The team consisted of four members with various backgrounds and experienced that
 <li><a href="https://www.kaggle.com/open-flights/airline-database?select=airlines.csv">Kaggle Airline Database</a></li>
 </ul><br>
 
-###<a href= "https://github.com/RealDreammaker/ProjectETL/tree/main/Data%20Transformed">Transformation</a>
+###<a href= "https://github.com/RealDreammaker/ProjectETL/tree/main/Data%20Transformed">Data Transformation</a>
 Data was extracted from source and removed duplicates records or invalid records and transformed to structured tables that can be later uploaded to server <br><br>
 <ul>
 <li>Used excel to for the purposes of a quick data exploration</li>
