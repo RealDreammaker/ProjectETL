@@ -3,7 +3,7 @@
 The team consisted of four members with various backgrounds and experienced that allocated by the class instructor. Regular catch ups and communications were done via Slack.<br>
 <ul>
   <li>Anita Rynkanen</li>
-  <li>Kelvin Ngyuyen</li>
+  <li>Kelvin Nguyen</li>
   <li>Matt Suffra</li>
   <li>Raymond Chau</li>
  </ul><br>
