@@ -17,7 +17,7 @@ The team consisted of four members with various backgrounds and experienced that
 ### Data Transformation
 Data was extracted from source and removed duplicates records or invalid records and transformed to structured tables that can be later uploaded to server. You can find out data transformed <a href= "https://github.com/RealDreammaker/ProjectETL/tree/main/Data%20Transformed">here.</a> <br><br>
 <ul>
-<li>Used excel to for the purposes of a quick [data exploration](../Data%20Extracted/data%20exploration.xlsx)</li>
+<li>Used excel to for the purposes of a quick <a href="https://github.com/RealDreammaker/ProjectETL/blob/main/Data%20Extracted/data%20exploration.xlsx">data exploration</a></li>
 <li>We used Pandas functions in Jupyter Notebook to load the 2 data sources</li>
 <li>Reviewed the files and transformed them into dataframes and also had to apply Pandas functions.</li>
 <li>Loaded into pgAdmin4</li>
